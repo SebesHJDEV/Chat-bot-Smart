@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rec_olc6oa",
+    "titulo": "alarma a las 11",
+    "fecha": "16/11/2025 11:00 AM",
+    "completado": false
+  },
+  {
+    "id": "rec_oo3va4",
+    "titulo": "alarma a las 11",
+    "fecha": "17/11/2025 11:00 AM",
+    "completado": true
+  },
+  {
+    "id": "rec_5o3xi2",
+    "titulo": "recuerdame ir con Mario al cine a las 11",
+    "fecha": "17/11/2025 11:00 AM",
+    "completado": true
+  }
+]
